@@ -1,0 +1,20 @@
+{
+  "lieu_jour_ferie": [
+    {
+      "uid": "e8d75d2a-7519-4d83-8580-b618fb0656d7",
+      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+      "uid_l": "bc657231-9599-442e-9459-486efca174a0",
+	  "date":"14/07/2026 00:00:00.000000",
+      "nom": "Fête nationale",
+	  "si_exclus":true
+    },
+	 {
+      "uid": "0e9af66b-970e-4ac0-b9ba-ae85ac1d8014",
+      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+      "uid_l": "bc657231-9599-442e-9459-486efca174a0",
+	  "date":"15/08/2026 00:00:00.000000",
+      "nom": "Assomption",
+	  "si_exclus":true
+    }
+  ]
+}
