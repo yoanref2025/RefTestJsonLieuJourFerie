@@ -22,7 +22,7 @@
       "uid_l": "ce193d2f-ffed-4e35-afce-51d1d9ceedd5",
 	  "date":"23/07/2026 00:00:00.000000",
       "nom": "Atester",
-	  "si_exclus":true
+	  "si_exclus":false
     }
   ]
 }
