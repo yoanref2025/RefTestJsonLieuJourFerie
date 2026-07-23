@@ -2,7 +2,7 @@
   "lieu_jour_ferie": [
     {
       "uid": "e8d75d2a-7519-4d83-8580-b618fb0656d7",
-      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "uid_l": "bc657231-9599-442e-9459-486efca174a0",
 	  "date":"14/07/2026 00:00:00.000000",
       "nom": "Fête nationale",
@@ -10,7 +10,7 @@
     },
 	 {
       "uid": "0e9af66b-970e-4ac0-b9ba-ae85ac1d8014",
-      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "uid_l": "bc657231-9599-442e-9459-486efca174a0",
 	  "date":"15/08/2026 00:00:00.000000",
       "nom": "Assomption",
@@ -18,7 +18,7 @@
     },
 	 {
       "uid": "0c928fb9-e6e9-4a94-831c-813f0de0ba3e",
-      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+      "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
       "uid_l": "ce193d2f-ffed-4e35-afce-51d1d9ceedd5",
 	  "date":"23/07/2026 00:00:00.000000",
       "nom": "Atester",
