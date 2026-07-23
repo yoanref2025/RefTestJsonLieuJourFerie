@@ -15,6 +15,14 @@
 	  "date":"15/08/2026 00:00:00.000000",
       "nom": "Assomption",
 	  "si_exclus":true
+    },
+	 {
+      "uid": "ce193d2f-ffed-4e35-afce-51d1d9ceedd5",
+      "uid_r": "b843c5b7-12ca-42e9-9876-078aac08bb80",
+      "uid_l": "bc657231-9599-442e-9459-486efca174a0",
+	  "date":"23/07/2026 00:00:00.000000",
+      "nom": "Atester",
+	  "si_exclus":true
     }
   ]
 }
